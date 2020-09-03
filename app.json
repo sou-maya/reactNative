@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "sdkVersion":"27.0.0",
+    "name": "CourseraProject",
+    "slug": "CourseraProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android":{
+      "package": "net.food.confusion.confusion"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
